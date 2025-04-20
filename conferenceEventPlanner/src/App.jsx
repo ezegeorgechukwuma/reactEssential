@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
-import ConferenceEvent from "./ConferenceEvent";
+import {ConferenceEvent} from "./ConferenceEvent";
 import AboutUs from "./AboutUs";
 
 function App() {
